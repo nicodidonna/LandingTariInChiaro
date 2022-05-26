@@ -1,0 +1,17 @@
+ul {
+  background-color: #d6ebff;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 10px;
+}
+
+ol {
+  background-color: #d6ebff;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 10px;
+}
+
+a:hover{
+    border-radius: 10px;
+}
