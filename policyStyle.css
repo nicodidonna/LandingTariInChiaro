@@ -15,3 +15,7 @@ ol {
 a:hover{
     border-radius: 10px;
 }
+
+#back-to-top:hover{
+  border-radius: 30px;
+}
